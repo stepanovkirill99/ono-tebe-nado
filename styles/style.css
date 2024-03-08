@@ -292,6 +292,11 @@
 
 .footer__menu-list {
   list-style-type: none;
+  text-underline-offset: 2px;
+}
+
+.footer__menu-link_active {
+  text-decoration: none;
 }
 
 .footer__social-list {
